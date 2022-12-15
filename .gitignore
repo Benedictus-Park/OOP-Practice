@@ -1,0 +1,9 @@
+*.iml
+*.class
+**/.idea/
+**/out/
+.DS_Store
+data.bin
+test.*
+input.txt
+output.txt
